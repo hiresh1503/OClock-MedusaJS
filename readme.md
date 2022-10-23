@@ -123,11 +123,11 @@ Download Visual Studio Code on your machine at [VScode]
 
 [//]: # 
 
-[Twitter_H]:<https://twitter.com/Hiresh_yadav15/>
-[Twitter_M]: <https://twitter.com/NiiMo0910/>
+[Twitter_H]: <https://twitter.com/Hiresh_yadav15/>
+[Twitter_M]: <https://twitter.com/NiiiiMo10/>
 
 [Youtube]: <https://youtu.be/DTqTon5V8p4/>
 
 [Node.org]: <https://nodejs.org/en/download//>
-[VScode]:<https://code.visualstudio.com//>
+[VScode]: <https://code.visualstudio.com//>
 [Medusa-Offical]: <https://medusajs.com//>
