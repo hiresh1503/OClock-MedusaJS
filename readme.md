@@ -1,11 +1,12 @@
-# OClock_eCommerce_MedusaJS_Hackathon
+# OClock-eCommerce-MedusaJS
+
 ## _Get the all types of Classy Watches here_
 
 <img alt="Screenshot 2022-10-16 at 3 45 29 PM" src="https://user-images.githubusercontent.com/103920023/197387104-b12a440b-38d2-4d90-b619-8c86bb770b8e.png">
 
 - ✨By Hiresh Yadav, Monika Sahu✨
 
-- Star🌟 this repository and fork🍴 to save it to your repos for easy access.
+- Star this repository and fork🍴 to save it to your repos for easy access.
 
 Contact with us : 
    [Twitter_H]
